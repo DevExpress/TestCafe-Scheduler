@@ -1,0 +1,13 @@
+{
+	"cronTime" : "0 0 * * * *",
+	"testcafe" : {
+		"controlPanelPort" : 1337,
+		"servicePort" : 1338,
+		"testsDir" : "Enter the path to the directory where you store your tests",
+		"browsers" : {
+			"Browser name": {
+				"path" : "Enter the path to the executable file that starts the browser"
+			}
+		}
+	}
+}

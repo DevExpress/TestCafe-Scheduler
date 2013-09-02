@@ -1,0 +1,9 @@
+{
+	"name" : "TestCafe_Scheduler",
+	"description" : "Schedule TestCafe testing tasks",
+	"dependencies" : {
+		"testcafe" : "13.1.1",
+		"cron" : "1.0.0"
+	},
+	"main" : "index"
+}
